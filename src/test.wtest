@@ -1,0 +1,10 @@
+import example.*
+describe "Anakin Skywalker es darth vader" {
+	var skywalker = new Maestro(1000, 100, 6666, 80, new Jedi())
+	test "era re piola y se ortivo el wachin" {
+		skywalker.vivirSuceso(-10)
+		assert.equals(new Sith(), skywalker.caminoDeLaFuerza())
+		assert
+	}
+
+}
